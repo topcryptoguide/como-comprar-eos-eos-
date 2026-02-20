@@ -1,1 +1,3 @@
-# como-comprar-eos-eos-
+[**Cómo comprar EOS (EOS)**](https://topcryptoguide.com/como-comprar-eos-eos/)
+
+Este artículo explica **cómo comprar EOS (EOS)**, la criptomoneda nativa de la blockchain EOS.IO, diseñada para soportar aplicaciones descentralizadas con **transacciones rápidas y sin comisiones directas al usuario**. Para adquirir EOS normalmente debes **crear una cuenta en un exchange confiable donde esté listado** (como Binance, KuCoin o Kraken), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia bancaria, tarjeta o stablecoins como USDT antes de ejecutar la compra desde el mercado spot. Algunos exchanges también permiten **comprar EOS directamente con tarjeta de crédito/débito**. Tras la compra, se recomienda **mover tus tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
